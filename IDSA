@@ -1,0 +1,4 @@
+echo hello
+echo pause if null
+echo null=true
+echo pause if <none>
