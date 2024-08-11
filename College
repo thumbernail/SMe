@@ -1,0 +1,4 @@
+git commit -m "Add new binary asset and update C++ code to handle it"
+
+
+git push
